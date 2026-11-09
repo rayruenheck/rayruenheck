@@ -3,7 +3,7 @@
 CS student at UMass Amherst (B.S. expected December 2027). I build full-stack apps,
 mostly Python on the backend and React/TypeScript on the frontend.
 
-- Spent 8 months as an R&D software engineering intern at Regional Economic Models,
+- Spent 9 months as an R&D software engineering intern at Regional Economic Models,
   Inc. (REMI), building a SQL Server to HubSpot sync service and features on a
   React + Django REST platform
 - Looking for Summer 2027 software engineering internships
